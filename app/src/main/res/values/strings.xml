@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LastProject</string>
+    <string name="name">name</string>
+    <string name="phoneHint">Enter Phone Number</string>
+    <string name="verificationHint">Enter verification Code</string>
+    <string name="buttonVerf">Send Verification Code</string>
+    <string name="message">message...</string>
+    <string name="sendmainp">send</string>
+    <string name="create_chat_roomlist">Create Chat Room</string>
+    <string name="appname">ChatApp</string>
+    <string name="finduser">FINDUSER</string>
+</resources>

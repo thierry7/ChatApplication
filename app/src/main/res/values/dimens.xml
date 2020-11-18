@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weitlog">300dp</dimen>
+    <dimen name="heightlog">40dp</dimen>
+    <dimen name="widthmanp">395dp</dimen>
+    <dimen name="heighmainp">354dp</dimen>
+    <dimen name="pad_mainp">10dp</dimen>
+    <dimen name="logpagewith">240dp</dimen>
+    <dimen name="logpageheight">51dp</dimen>
+    <dimen name="margeleft">82dp</dimen>
+    <dimen name="margeright">82dp</dimen>
+    <dimen name="margetop">38dp</dimen>
+    <dimen name="margeend">89dp</dimen>
+    <dimen name="margebottom">513dp</dimen>
+    <dimen name="lyt_margin">20sp</dimen>
+    <dimen name="chat_layout_width">250dp</dimen>
+    <dimen name="layoutListuser">291dp</dimen>
+</resources>
